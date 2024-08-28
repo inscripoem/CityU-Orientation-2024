@@ -43,33 +43,80 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 layout: intro
-introImage: 'https://img2.storyblok.com/312x312/filters:format(webp)/f/79165/400x400/1082ff0d24/dawntraoz-alba-silvente.jpg'
+introImage: 'https://www.inscripoem.com/img/avatar_hu80dd788a3bf4bab5b1da9a4c965b38d5_290987_300x0_resize_box_3.png'
 # Unicorn Settings
 logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 ---
 
-# Intro
+# About Myself
+
+## CHANG "Brandon" Xuben
+
+- 23Fall CityU MSBME Student
+
+
+
+
+---
+layout: table-contents
+gradientColors: ['#DE6C30', '#B01C50']
+logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+website: 'cityu-ori-24.netlify.app'
+handle: 'CHANG Xuben'
+hideInToc: true
+---
+
+# Table of Contents
+
+<Toc />
 
 ---
 layout: cover
 logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
+title: 'First Things First'
+level: 1
 ---
 
-# First of First
+# First Things First
+
+---
+layout: cover
+logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+website: 'cityu-ori-24.netlify.app'
+handle: 'CHANG Xuben'
+title: 'Resources - Hardware'
+level: 1
+---
+
+# Resources - Hardware
+
+---
+layout: cover
+logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+website: 'cityu-ori-24.netlify.app'
+handle: 'CHANG Xuben'
+title: 'Printing'
+level: 2
+---
+
+# Printing (Free Quota Printing)
 
 <!--
 Here is another comment.
 -->
 
 ---
-layout: table-contents
-gradientColors: ['#DE6C30', '#B01C50']
+layout: center
+logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+website: 'cityu-ori-24.netlify.app'
+handle: 'CHANG Xuben'
 hideInToc: true
 ---
 
-# Table of Contents
-<Toc />
+# Thank you
+
+Feel free to contact me at **xb.chang#my.cityu.edu.hk**!
