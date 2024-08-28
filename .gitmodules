@@ -1,0 +1,3 @@
+[submodule "themes/slidev-theme-cityu"]
+	path = themes/slidev-theme-cityu
+	url = https://github.com/inscripoem/slidev-theme-cityu.git
