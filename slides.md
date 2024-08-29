@@ -22,7 +22,7 @@ transition: slide-left
 mdc: true
 hideInToc: true
 # Unicorn Settings
-logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
+logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 ---
 
 # CityU MSBME Orientation Sharing 2024
@@ -44,7 +44,7 @@ logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 layout: intro
 introImage: 'https://www.inscripoem.com/img/avatar_hu80dd788a3bf4bab5b1da9a4c965b38d5_290987_300x0_resize_box_3.png'
 # Unicorn Settings
-logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
+logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 hideInToc: true
@@ -67,7 +67,7 @@ hideInToc: true
 ---
 layout: table-contents
 gradientColors: ['#DE6C30', '#B01C50']
-logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
+logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 hideInToc: true
@@ -83,7 +83,7 @@ hideInToc: true
 
 ---
 layout: cover
-logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
+logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 title: 'First Things First'
@@ -110,7 +110,7 @@ level: 1
 
 ---
 layout: cover
-logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
+logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 title: 'Tips on ...'
@@ -125,7 +125,7 @@ level: 1
 
 ---
 layout: cover
-logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
+logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 title: 'Courses'
@@ -155,7 +155,7 @@ level: 2
 
 ---
 layout: cover
-logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
+logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 title: 'Presentation'
@@ -189,7 +189,7 @@ level: 3
 
 ---
 layout: cover
-logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
+logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 title: 'CityU Services'
@@ -222,7 +222,7 @@ level: 1
 
 ---
 layout: cover
-logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
+logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 title: 'Scams'
@@ -248,7 +248,7 @@ You will continuously see this reminder for, about, the next 1 year. But indeed 
 
 ---
 layout: cover
-logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
+logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 title: 'Reminder'
@@ -271,7 +271,7 @@ hideInToc: true
 
 ---
 layout: center
-logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
+logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 hideInToc: true
 ---
 
