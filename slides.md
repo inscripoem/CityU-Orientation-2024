@@ -22,12 +22,10 @@ transition: slide-left
 mdc: true
 hideInToc: true
 # Unicorn Settings
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 ---
 
 # CityU MSBME Orientation Sharing 2024
-
-## Topic: Resources for a CityU Student
 
 #### CHANG Xuben
 
@@ -40,14 +38,13 @@ logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.s
 
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
 
 ---
 layout: intro
 introImage: 'https://www.inscripoem.com/img/avatar_hu80dd788a3bf4bab5b1da9a4c965b38d5_290987_300x0_resize_box_3.png'
 # Unicorn Settings
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 hideInToc: true
@@ -58,16 +55,19 @@ hideInToc: true
 ## CHANG "Brandon" Xuben
 
 - BEng in Biomedical Engineering from Huazhong University of Science and Technology
-- 23Fall CityU MSBME Student
+- CityU 23Fall MSBME Student
+  - CGPA 3.91/4.3
 - Feel free to contact me at **xb.chang#my.cityu.edu.hk**
 
-
+<span class="absolute top-10 right-10 w-20 h-20" >
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://cityu-ori-24.netlify.app/" alt="Slides QR Code" class="p-1 rounded-md bg-white" />
+</span>
 
 
 ---
 layout: table-contents
 gradientColors: ['#DE6C30', '#B01C50']
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 hideInToc: true
@@ -77,9 +77,13 @@ hideInToc: true
 
 <Toc />
 
+<span class="absolute top-10 right-10 w-20 h-20" >
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://cityu-ori-24.netlify.app/" alt="Slides QR Code" class="p-1 rounded-md bg-white" />
+</span>
+
 ---
 layout: cover
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 title: 'First Things First'
@@ -93,43 +97,57 @@ level: 1
   - [CityU Official Website](https://www.cityu.edu.hk/)
   - [CityU GEO Website](https://www.cityu.edu.hk/geo/) (Visa, Insurance, ...)
   - [CityU BME Website](https://www.cityu.edu.hk/bme/)
-  - CityU Email Inbox
+  - **!!! CityU Email Inbox**
 - Useful links
   - [CityU Portal](https://www.cityu.edu.hk/portal/) (Academic Calendar, Academic Honesty)
   - [CityU UserHome](https://auth.cityu.edu.hk/app/UserHome) (Navigation)
 
 <img src="/assets/slides/cityu-website.png" alt="Scam poster" width=40% class="absolute right-20 top-40"/>
 
+<span class="absolute top-10 right-10 w-20 h-20" >
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://cityu-ori-24.netlify.app/" alt="Slides QR Code" class="p-1 rounded-md bg-white" />
+</span>
 
 ---
 layout: cover
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
-title: 'Resources - Hardware'
+title: 'Tips on ...'
 level: 1
 ---
 
-# Resources - Hardware
+# Tips on ...
+
+<span class="absolute top-10 right-10 w-20 h-20" >
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://cityu-ori-24.netlify.app/" alt="Slides QR Code" class="p-1 rounded-md bg-white" />
+</span>
 
 ---
 layout: cover
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
-title: 'Printing'
+title: 'Courses'
 level: 2
 ---
 
-# Printing (Free Quota Printing)
+# Courses
 
-- 1500 quota for one academic year (B&W)
-- Run Run Shaw, YEUNG 4/F, LI 4/F & G601
-- Available devices
-  - Public computers
-  - **Personal computers/smartphones** (more convenient, guidelines on CSC website)
+- Pick the courses that fit you
+  - One week to free add/drop after the semester starts
+- **Attend every lecture**
+  - Lecture notes are not all you need
+- Be careful about the homework & quizzes
 
-<img src="/assets/slides/fast-printing.png" alt="Fast Printing" width=20% class="absolute right-20 top-30"/>
+## Team Project
+
+- A race against time
+  - 🤓☝️I will start early →😭Finally completed before the deadline
+
+<span class="absolute top-10 right-10 w-20 h-20" >
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://cityu-ori-24.netlify.app/" alt="Slides QR Code" class="p-1 rounded-md bg-white" />
+</span>
 
 <!--
 
@@ -137,80 +155,66 @@ level: 2
 
 ---
 layout: cover
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
-title: 'Room Booking'
-level: 2
+title: 'Presentation'
+level: 3
 ---
 
-# Room Booking
+# Presentation
 
-- [Resource Booker](https://booking.cityu.edu.hk)
-- Available rooms
-  - Group study room
-  - Library study area
-  - Music room
+- Clarify the logic flow
+  - Which is "make your team's work into a whole"
+  - Don't ignore the other parts
+- Less is more
+  - Highlight, or just extract the key points
+- DO NOT READ THE SLIDES
+  - More obvious than you think
+  - Just try to extend the key points
 
-<img src="/assets/slides/study-room.png" alt="Study Room" width=30% class="absolute right-30 top-40"/>
+<span class="fixed left-1/2 top-50">
+  <img src="/assets/slides/pre-long-text.png" alt="Pre with Long Text" width=60% class="shadow-lg rounded"/>
+  <p class="mt-1 text-xs">This slide with long texts</p>
+</span>
+
+<span class="absolute top-10 right-10 w-20 h-20" >
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://cityu-ori-24.netlify.app/" alt="Slides QR Code" class="p-1 rounded-md bg-white" />
+</span>
 
 <!--
 
 -->
 
----
-layout: cover
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
-website: 'cityu-ori-24.netlify.app'
-handle: 'CHANG Xuben'
-title: 'Fitness Rooms'
-level: 2
----
-
-# Fitness Rooms
-
-- Prerequest: PED1305 Physical Fitness - Elementary
-  - Add or Stand by
-- Access to
-  - CityU Fitness Rooms ([Need Booking](https://www.cityu.edu.hk/sds/web/pesports_bookingsystem.shtml))
-  - LCSD Fitness Rooms (With Registration)
-
-<img src="/assets/slides/fitness-rooms.png" alt="Fitness Rooms" width=45% class="absolute right-20 top-45"/>
-
-<!--
-
--->
 
 ---
 layout: cover
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
-website: 'cityu-ori-24.netlify.app'
-handle: 'CHANG Xuben'
-title: 'Resources - Software'
-level: 1
----
-
-# Resources - Software
-
----
-layout: cover
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 title: 'CityU Services'
-level: 2
+level: 1
 ---
 
 # CityU Services
 
+## Software
+
 1. Microsoft 365
-   - Access to all Office applications
-   - 5T OneDrive storage
 2. Zoom
-   - Education Account
 3. Grammarly
-   - [Grammarly Premium](https://www.cityu.edu.hk/its/services-facilities/grammarly)
-4. More services on **UserHome**
+
+## Facilities
+
+1. Free Quota Printing
+2. Resource Booker
+3. CityU/LCSD Fitness Rooms
+
+**Discover more on CityU websites & mail inbox!**
+
+<span class="absolute top-10 right-10 w-20 h-20" >
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://cityu-ori-24.netlify.app/" alt="Slides QR Code" class="p-1 rounded-md bg-white" />
+</span>
 
 <!--
 
@@ -218,30 +222,7 @@ level: 2
 
 ---
 layout: cover
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
-website: 'cityu-ori-24.netlify.app'
-handle: 'CHANG Xuben'
-title: 'Student Email'
-level: 3
----
-
-# Student Email
-
-- Various free offers for student
-  - GitHub Student Developer Pack (Web Servers, Domains, Softwares, etc.)
-  - JetBrains Student Pack (Coding IDE)
-  - Notion
-- List example: [ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers)
-
-<img src="/assets/slides/github-student-pack.png" alt="GitHub Student Pack" width=30% class="absolute right-15 top-40"/>
-
-<!--
-
--->
-
----
-layout: cover
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 title: 'Scams'
@@ -253,9 +234,13 @@ level: 1
 - Telephone, WhatsApp, WeChat, SMS, ...
 - Call **18222**
 
-<Youtube id="vDM04lsN9fo" height=200 width=360 class="m-3"/>
+<Youtube id="vDM04lsN9fo" height=180 width=360 class="m-3"/>
 
-<img src="/assets/slides/scam.png" alt="Scam poster" width=30% class="absolute right-20 top-10"/>
+<img src="/assets/slides/scam.png" alt="Scam poster" width=25% class="absolute right-50 top-22"/>
+
+<span class="absolute top-10 right-10 w-20 h-20" >
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://cityu-ori-24.netlify.app/" alt="Slides QR Code" class="p-1 rounded-md bg-white" />
+</span>
 
 <!--
 You will continuously see this reminder for, about, the next 1 year. But indeed you will receive tons of scams as long as you are in Hong Kong in the form of telephone, WhatsApp, WeChat, SMS, etc. So be cautious, be suspicious, and call 18222 if you believe you are in a scam. 
@@ -263,7 +248,7 @@ You will continuously see this reminder for, about, the next 1 year. But indeed 
 
 ---
 layout: cover
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
 handle: 'CHANG Xuben'
 title: 'Reminder'
@@ -286,7 +271,7 @@ hideInToc: true
 
 ---
 layout: center
-logoHeader: 'https://template.cityu.edu.hk/template/logo/bme/bme_logo_eng_cmyk.svg'
+logoHeader: '/assets/slides/bme_logo_eng_cmyk.svg'
 hideInToc: true
 ---
 
