@@ -1,3 +1,7 @@
+[build]
+publish = "dist"
+command = "git submodule update --init --recursive && bun run build"
+
 [build.environment]
 NODE_VERSION = "20"
 

@@ -1,5 +1,7 @@
 {
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
-  ]
+  ],
+  "buildCommand": "git submodule update --init --recursive && bun run build",
+  "outputDirectory": "dist"
 }
