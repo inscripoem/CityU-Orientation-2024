@@ -7,10 +7,10 @@ background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: CityU MSBME Orientation Sharing 2024
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
+  ## CityU MSBME Orientation Sharing 2024
+  Key point tips for new students.
 
-  Learn more at [Sli.dev](https://sli.dev)
+  View on [GitHub](https://github.com/inscripoem/CityU-Orientation-2024)
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
@@ -262,6 +262,9 @@ hideInToc: true
 - Care about yourself, reach out when you need
 - Try more, think more, explore more
 
+<span class="absolute top-10 right-10 w-20 h-20" >
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://cityu-ori-24.netlify.app/" alt="Slides QR Code" class="p-1 rounded-md bg-white" />
+</span>
 
 <style>
   li {
@@ -279,7 +282,7 @@ hideInToc: true
 
 Hope you all have a good time studying at CityU
 
-[View on GitHub](https://github.com/inscripoem/CityU-Orientation-2024) | [Read Handbook](https://cityu-ori-24-docs.netlify.app/)
+[View on GitHub](https://github.com/inscripoem/CityU-Orientation-2024)
 
 <span class="absolute bottom-20 right-30 w-20 h-20" >
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://cityu-ori-24.netlify.app/" alt="Slides QR Code" class="p-1 rounded-md bg-white" />

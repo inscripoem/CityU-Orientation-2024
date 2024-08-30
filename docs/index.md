@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "CityU Orientation 2024"
-  text: "CityU MSBME Program Orientation 2024 Documentation"
-  tagline: My great project tagline
+  name: "CityU MSBME Orientation Handbook 2024"
+  text: "A comprehensive guide for new students"
+  tagline: "Welcome to CityU!"
   actions:
     - theme: brand
       text: Markdown Examples
