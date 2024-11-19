@@ -42,7 +42,7 @@ logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024
 
 ---
 layout: intro
-introImage: 'https://www.inscripoem.com/img/avatar_hu80dd788a3bf4bab5b1da9a4c965b38d5_290987_300x0_resize_box_3.png'
+introImage: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/avatar.png'
 # Unicorn Settings
 logoHeader: 'https://raw.githubusercontent.com/inscripoem/CityU-Orientation-2024/main/assets/slides/bme_logo_eng_cmyk.svg'
 website: 'cityu-ori-24.netlify.app'
